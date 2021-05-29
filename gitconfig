@@ -106,6 +106,8 @@
 
 [user]
 	useConfigOnly = true
+	email = chimpfunk@live.ca
+	name = Dylan Bevan
 
 [http]
 	cookieFile = ~/.gitcookies
